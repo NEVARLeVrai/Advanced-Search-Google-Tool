@@ -1,4 +1,4 @@
-# Advanced Search Google Tool
+# Advanced Search Google Tool https://github.com/NEVARLeVrai/Advanced-Search-Google-Tool/blob/main/icons/Advanced-Search-Google-Tool.png
 Advanced Search Google Tool is a powerful application designed to facilitate advanced searching techniques across the web. Developed using VB.NET forms, this tool provides users with the ability to harness the full potential of search engines, particularly Google, using advanced search operators.
 
 # Features implemented
