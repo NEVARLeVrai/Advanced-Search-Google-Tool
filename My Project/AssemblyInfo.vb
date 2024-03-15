@@ -1,4 +1,5 @@
-﻿Imports System
+﻿Imports System.Resources
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -10,10 +11,10 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Advanced Search Google Tool")>
 <Assembly: AssemblyDescription("This application that enables users to perform advanced searches using specialized operators. It offers a user-friendly interface, customizable queries, search result previews, and export functionality")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyCompany("https://github.com/NEVARLeVrai/")>
 <Assembly: AssemblyProduct("Advanced Search Google Tool")>
-<Assembly: AssemblyCopyright("Copyright ©  2024")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyCopyright("https://github.com/NEVARLeVrai/")>
+<Assembly: AssemblyTrademark("https://github.com/NEVARLeVrai/")>
 
 <Assembly: ComVisible(False)>
 
@@ -33,3 +34,4 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyVersion("1.0.0.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: NeutralResourcesLanguage("en-US")>
