@@ -41,4 +41,5 @@
             MessageBox.Show("Veuillez entrer un terme de recherche.")
         End If
     End Sub
+
 End Class

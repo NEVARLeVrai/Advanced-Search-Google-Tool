@@ -13,10 +13,10 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("This application that enables users to perform advanced searches using specialized operators. It offers a user-friendly interface, customizable queries, search result previews, and export functionality")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("Advanced Search Google Tool")>
-<Assembly: AssemblyCopyright("NEVARLeVrai")>
+<Assembly: AssemblyCopyright("NEVARLeVrai Copyright")>
 <Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(True)>
+<Assembly: ComVisible(False)>
 
 'Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
 <Assembly: Guid("cc193941-e0db-4c7c-b77c-ac13c5e37f5d")>
