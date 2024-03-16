@@ -75,7 +75,7 @@ Partial Class AdvancedSearch
         Me.Label1.Size = New System.Drawing.Size(180, 26)
         Me.Label1.TabIndex = 7
         Me.Label1.Text = "intitle:""Index of /""" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Find open directories on web servers"
-        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.Label1.TextAlign = System.Drawing.ContentAlignment.BottomCenter
         '
         'intileBouton
         '
@@ -89,11 +89,11 @@ Partial Class AdvancedSearch
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(730, 428)
+        Me.Label3.Location = New System.Drawing.Point(721, 428)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(58, 13)
+        Me.Label3.Size = New System.Drawing.Size(67, 13)
         Me.Label3.TabIndex = 12
-        Me.Label3.Text = "V1.0 alpha"
+        Me.Label3.Text = "V1.0.0-alpha"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.BottomLeft
         '
         'AdvancedSearch
