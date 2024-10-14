@@ -157,6 +157,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Advanced-Search-Google-Tool.ico" />
+    <None Include="icons\Advanced-Search-Google-Tool250x250.png" />
+    <None Include="icons\Advanced-Search-Google-Tool.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

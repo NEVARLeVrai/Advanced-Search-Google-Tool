@@ -10,3 +10,27 @@ C:\Users\Danie\Documents\VSC\Visual Studio 2019\Advanced Search Google Tool\Adva
 C:\Users\Danie\Documents\VSC\Visual Studio 2019\Advanced Search Google Tool\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.exe
 C:\Users\Danie\Documents\VSC\Visual Studio 2019\Advanced Search Google Tool\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.xml
 C:\Users\Danie\Documents\VSC\Visual Studio 2019\Advanced Search Google Tool\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.pdb
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.exe.config
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.exe
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.pdb
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.xml
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.vbproj.AssemblyReference.cache
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced_Search_Google_Tool.AdvancedSearch.resources
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced_Search_Google_Tool.Resources.resources
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.vbproj.GenerateResource.cache
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.vbproj.CoreCompileInputs.cache
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.exe
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.xml
+C:\Users\Danie\Documents\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.pdb
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.exe.config
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.exe
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.pdb
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\bin\Debug\Advanced Search Google Tool.xml
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.vbproj.AssemblyReference.cache
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced_Search_Google_Tool.AdvancedSearch.resources
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced_Search_Google_Tool.Resources.resources
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.vbproj.GenerateResource.cache
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.vbproj.CoreCompileInputs.cache
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.exe
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.xml
+G:\Autres ordinateurs\PC Dan Two\VSC\Advanced-Search-Google-Tool\obj\Debug\Advanced Search Google Tool.pdb
